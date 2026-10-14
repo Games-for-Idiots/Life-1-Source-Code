@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$DudeSprite","classId":2,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"faze","traits":[{"code":35,"dataId":14,"value":1},{"code":35,"dataId":13,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Dude J.G.","nickname":"Dud","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$FrendSprites","classId":3,"equips":[24,0,46,0,84],"faceIndex":1,"faceName":"faze","traits":[],"initialLevel":1,"maxLevel":99,"name":"Frend","nickname":"The","note":"","profile":"Nothing"}
+]
